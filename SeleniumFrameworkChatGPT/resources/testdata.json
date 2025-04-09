@@ -1,0 +1,23 @@
+[
+  {
+    "firstName": "Saif",
+    "lastName": "Akhter",
+    "phone":"7864265115",
+    "email": "saif@gmail.com",
+    "password": "Saif@123"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Doe",
+    "phone":"78642655",
+    "email": "john@yahoo.com",
+    "password": "john@1234"
+  },
+  {
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "phone":"786425",
+    "email": "jane@egde.com",
+    "password": "Jane 123"
+  }
+]
